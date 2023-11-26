@@ -1,12 +1,13 @@
-# TODO edit this code, this code is for https://atcoder.jp/contests/practice/tasks/practice_1
-
 # param
-a = int(input())
-b, c = map(int, input().split())
-s = input()
+N, X = map(int, input().split())
+S = [*map(int, input().split())]
+# s = input()
 
 # solve
-ans = a + b + c
+ans = 0
+for i in range(N):
+    if S[i] <= X:
+        ans += S[i]
 
 # answer
-print("{} {}".format(ans, s))
+print("{}".format(ans))
