@@ -1,5 +1,9 @@
+print("{:02X}".format(int(input())))
+# ラストだけWA出してしまったので、多分何かミスってる
+# 解説のコードが簡潔すぎる・・・覚えておこう
 # TODO edit this code
 
+'''
 # param
 N = int(input())
 
@@ -35,3 +39,4 @@ def hex(N):
 
 
 print(hex(N))
+'''

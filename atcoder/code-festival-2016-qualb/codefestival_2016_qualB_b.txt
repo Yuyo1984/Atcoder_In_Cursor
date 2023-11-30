@@ -1,0 +1,39 @@
+10 2 3
+abccabaabb
+--------
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+No
+No
+--------
+12 5 2
+cabbabaacaba
+--------
+No
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+No
+No
+--------
+5 2 2
+ccccc
+--------
+No
+No
+No
+No
+No
+--------
